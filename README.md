@@ -1,4 +1,4 @@
-Product Management System
+𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦
 
 Description
 This project is a CRUD-based Product Management System developed using JavaScript . It allows users to perform the following actions:
